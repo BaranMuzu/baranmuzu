@@ -2,7 +2,7 @@
 
 Welcome to my page it seems to you want to learn things about me. so here it is!
 
-My name is Baran, and i am from Turkiye
+My name is Baran, and i am from Turkiye.
 i am a [Friday Night Funkin](https://www.newgrounds.com/portal/view/770371) Lua & Haxe Coder & Content Creator!
 I'm still very new at haxe but i get around it.
 im also trying to learn new things around communitys like pyhton, c# and so much more.
