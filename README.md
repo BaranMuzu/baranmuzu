@@ -30,4 +30,4 @@ take your time and relax. think about the future and get hope for it. im sure yo
 don't ever give up.
 
 ##
-[![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@[BaranMuzu]&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BaranMuzu&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
