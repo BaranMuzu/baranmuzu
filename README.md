@@ -8,7 +8,7 @@ I'm still very new at haxe but i get around it.
 im also trying to learn new things around communitys like pyhton, c# and so much more.
 
 Wanted to contant me?
-### Discord : baran_official
+### Discord : baranmuzu
 ### [Bluesky](https://bsky.app/profile/baranmuzu.bsky.social)
 ### [Youtube](https://www.youtube.com/@BaranMuzu)
 ### [Gamebanana](https://gamebanana.com/members/3018434)
