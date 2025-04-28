@@ -22,6 +22,7 @@ I'm also into coding, game development, and just vibing online.
 ### [Bluesky](https://bsky.app/profile/baranmuzu.bsky.social)  
 ### [YouTube](https://www.youtube.com/@BaranMuzu)  
 ### [GameBanana](https://gamebanana.com/members/3018434)
+### [Itch Io](https://baranmuzu.itch.io/)
 
 [![bluesky](https://img.shields.io/twitter/follow/baranmuzu?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/BaranMuzu)
 
