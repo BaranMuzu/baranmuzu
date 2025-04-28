@@ -16,10 +16,14 @@ I'm also into coding, game development, and just vibing online.
 ---
 
 ## 📬 Contact Me:
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) `baranmuzu`  
-📘 [Bluesky](https://bsky.app/profile/baranmuzu.bsky.social)  
-▶️ [YouTube](https://www.youtube.com/@BaranMuzu)  
-🎮 [GameBanana](https://gamebanana.com/members/3018434)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) `baranmuzu`
+
+
+### [Bluesky](https://bsky.app/profile/baranmuzu.bsky.social)  
+### [YouTube](https://www.youtube.com/@BaranMuzu)  
+### [GameBanana](https://gamebanana.com/members/3018434)
+
+[![bluesky](https://img.shields.io/twitter/follow/baranmuzu?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/BaranMuzu)
 
 I'm usually chilling, but feel free to reach out! I'll do my best to reply when I can.
 
@@ -35,7 +39,7 @@ I'm usually chilling, but feel free to reach out! I'll do my best to reply when 
 ---
 
 ## Stats
-[![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BaranMuzu&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BaranMuzu&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaranMuzu&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaranMuzu&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
