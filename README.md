@@ -10,8 +10,8 @@ I'm also into coding, game development, and just vibing online.
 ## 💻 I code in:
 [![Skill Icons](https://skillicons.dev/icons?i=haxe,lua,python&theme=dark)](https://skillicons.dev)
 
-## 🌱 Languages I want to learn:
-[![Skill Icons](https://skillicons.dev/icons?i=cs,cpp,css,html,js,unity&theme=dark)](https://skillicons.dev)
+## 💻 Coding Languages I want to learn:
+[![Skill Icons](https://skillicons.dev/icons?i=cs,cpp,css,html,js&theme=dark)](https://skillicons.dev)
 
 ---
 
