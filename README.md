@@ -16,15 +16,17 @@ I'm also into coding, game development, and just vibing online.
 ---
 
 ## 📬 Contact Me:
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) `baranmuzu`
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) : BaranMuzu
 
 
 ### [Bluesky](https://bsky.app/profile/baranmuzu.bsky.social)  
 ### [YouTube](https://www.youtube.com/@BaranMuzu)  
 ### [GameBanana](https://gamebanana.com/members/3018434)
+### [Gamejolt](https://gamejolt.com/@BaranMuzu)
+### [NewGrounds](https://baranmuzu.newgrounds.com/)
 ### [Itch Io](https://baranmuzu.itch.io/)
 
-[![bluesky](https://img.shields.io/twitter/follow/baranmuzu?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/BaranMuzu)
+[![twitter](https://img.shields.io/twitter/follow/baranmuzu?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/BaranMuzu)
 
 I'm usually chilling, but feel free to reach out! I'll do my best to reply when I can.
 
