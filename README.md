@@ -24,6 +24,7 @@ I'm also into coding, game development, and just vibing online.
 ### [GameBanana](https://gamebanana.com/members/3018434)
 ### [Gamejolt](https://gamejolt.com/@BaranMuzu)
 ### [NewGrounds](https://baranmuzu.newgrounds.com/)
+### [Scratch](https://scratch.mit.edu/users/BaranMuzu/)
 ### [Itch Io](https://baranmuzu.itch.io/)
 
 [![twitter](https://img.shields.io/twitter/follow/baranmuzu?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/BaranMuzu)
