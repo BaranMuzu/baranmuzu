@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-Welcome to my page — looks like you want to learn more about me. So here we go!
+Welcome to my page looks like you want to learn more about me. So here we go!
 
 My name is **Baran**, I'm from **Türkiye**, and I'm a **content creator** on YouTube and other platforms.  
 I'm also into coding, game development, and just vibing online.
@@ -28,7 +28,7 @@ I'm usually chilling, but feel free to reach out! I'll do my best to reply when 
 
 > I don't know how life is going for you right now...  
 > But if it's rough, just remember: **it's okay**. Take your time, relax, and believe in the future.  
-> You're strong enough to make your dreams come true — **never give up**.  
+> You're strong enough to make your dreams come true **never give up**.  
 > The world is big, your time is precious, and **you matter**.
 
 ---
