@@ -11,7 +11,7 @@ I'm also into coding, game development, and just vibing online.
 [![Skill Icons](https://skillicons.dev/icons?i=haxe,lua,python,css,html&theme=dark)](https://skillicons.dev)
 
 ## 💻 Coding Languages I want to learn:
-[![Skill Icons](https://skillicons.dev/icons?i=cs,cpp,js&theme=dark)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=cs,js&theme=dark)](https://skillicons.dev)
 
 ---
 
