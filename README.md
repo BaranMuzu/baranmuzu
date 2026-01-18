@@ -34,7 +34,6 @@ I'm usually chilling, but feel free to reach out! I'll do my best to reply when 
 ---
 
 ## Stats
-[![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BaranMuzu&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Baran's WakaTime stats](profile/wakatime.svg)
 
-
-[![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaranMuzu&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Baran's Github Stats](profile/stats.svg)
