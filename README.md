@@ -1,39 +1,47 @@
-## 👋 Hey there!
+<h1 align="center">👋 Hey there, I'm Baran!</h1>
+<h3 align="center">Content Creator | Game Developer | Coder from Türkiye 🇹🇷</h3>
 
-Welcome to my page looks like you want to learn more about me. So here we go!
-
-My name is **Baran**, I'm from **Türkiye**, and I'm a **content creator** on YouTube and other platforms.  
-I'm also into coding, game development, and just vibing online.
-
----
-
-## 💻 I code in:
-[![Skill Icons](https://skillicons.dev/icons?i=haxe,lua,python,css,html&theme=dark)](https://skillicons.dev)
-
-## 💻 Coding Languages I want to learn:
-[![Skill Icons](https://skillicons.dev/icons?i=cs,js&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://baranmuzu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-baranmuzu.netlify.app-00c700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://youtube.com/" target="_blank"> <img src="https://img.shields.io/badge/YouTube-BaranMuzu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.com/users/SENIN_DISCORD_ID_BURAYA" target="_blank"> <img src="https://img.shields.io/badge/Discord-BaranMuzu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 ---
 
-## 📬 Contact Me:
+## About Me
 
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) : BaranMuzu
-### [Visit my website to see ALL the socials!](https://baranmuzu.netlify.app/)
+Welcome to my page! Looks like you want to learn more about me. 
+I'm a **content creator** on YouTube and other platforms. When I'm not making content, I'm usually diving into coding, game development, or just vibing online. I love creating fun projects and learning new things along the way!
 
-I'm usually chilling, but feel free to reach out! I'll do my best to reply when I can.
+## 🛠️ Tech Stack & Tools
+
+**Languages & Tools I currently use:**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=haxe,lua,python,html,css&theme=dark)](https://skillicons.dev)
+
+**What I want to learn next:**
+<br>
+[![Learning](https://skillicons.dev/icons?i=cs,js&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 💬 A little message:
+## 📊 GitHub & Coding Stats
 
-> I don't know how life is going for you right now...  
-> But if it's rough, just remember: **it's okay**. Take your time, relax, and believe in the future.  
-> You're strong enough to make your dreams come true **never give up**.  
-> The world is big, your time is precious, and **you matter**.
+<p align="center">
+  <img src="profile/wakatime.svg" alt="Baran's WakaTime stats" width="48%" />
+  <img src="profile/stats.svg" alt="Baran's Github Stats" width="48%" />
+</p>
 
 ---
 
-## Stats
-![Baran's WakaTime stats](profile/wakatime.svg)
+## 💬 A little message for you:
 
-![Baran's Github Stats](profile/stats.svg)
+> *I don't know how life is going for you right now...* <br>
+> *But if it's rough, just remember: **it's okay**. Take your time, relax, and believe in the future.* <br>
+> *You're strong enough to make your dreams come true, **never give up**.* <br>
+> *The world is big, your time is precious, and **you matter**.* 💚
