@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Baran!</h1>
-<h3 align="center">Content Creator | Game Developer | Coder from Türkiye 🇹🇷</h3>
+<h3 align="center">Content Creator | Programmer | Coder from Türkiye 🇹🇷</h3>
 
 <p align="center">
   <a href="https://baranmuzu.netlify.app/" target="_blank">
@@ -7,7 +7,7 @@
   </a>
   <a href="https://youtube.com/" target="_blank"> <img src="https://img.shields.io/badge/YouTube-BaranMuzu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://discord.com/users/SENIN_DISCORD_ID_BURAYA" target="_blank"> <img src="https://img.shields.io/badge/Discord-BaranMuzu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/1084601562762051706" target="_blank"> <img src="https://img.shields.io/badge/Discord-BaranMuzu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
