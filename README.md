@@ -20,13 +20,13 @@ I'm a **content creator** on YouTube and other platforms. When I'm not making co
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Tools I currently use:**
+**Languages & Tools I currently use & learning:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=haxe,lua,python,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,lua,python,html,css,cs&theme=dark)](https://skillicons.dev)
 
 **What I want to learn next:**
 <br>
-[![Learning](https://skillicons.dev/icons?i=cs,js&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 
 ---
 
