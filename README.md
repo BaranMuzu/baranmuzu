@@ -5,7 +5,7 @@
   <a href="https://baranmuzu.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-baranmuzu.netlify.app-00c700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://youtube.com/" target="_blank"> <img src="https://img.shields.io/badge/YouTube-BaranMuzu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@BaranMuzu" target="_blank"> <img src="https://img.shields.io/badge/YouTube-BaranMuzu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.com/users/1084601562762051706" target="_blank"> <img src="https://img.shields.io/badge/Discord-BaranMuzu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
