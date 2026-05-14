@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="274.536"
+            width="274.3965"
             height="8"
             fill="#000080"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="274.536"
+            x="274.3965"
             y="0"
-            width="73.79549999999999"
+            width="73.935"
             height="8"
             fill="#df7900"
           />
@@ -405,7 +405,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#df7900" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Haxe - 73 hrs 55 mins
+        Haxe - 74 hrs 5 mins
       </text>
     </g>
   
