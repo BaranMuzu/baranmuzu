@@ -18,7 +18,7 @@
 Welcome to my page! Looks like you want to learn more about me. 
 I'm a **content creator** on YouTube and other platforms. When I'm not making content, I'm usually diving into coding, game development, or just vibing online. I love creating fun projects and learning new things along the way!
 
-## 🛠️ Tech Stack & Tools
+## Stuff I Do
 
 **Languages & Tools I currently use & learning:**
 <br>
