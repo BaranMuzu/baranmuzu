@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="265.14300000000003"
+            width="265.1895"
             height="8"
             fill="#000080"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="265.14300000000003"
+            x="265.1895"
             y="0"
-            width="72.91199999999999"
+            width="72.8655"
             height="8"
             fill="#df7900"
           />
@@ -398,7 +398,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 279 hrs 49 mins
+        Lua - 279 hrs 54 mins
       </text>
     </g>
   
