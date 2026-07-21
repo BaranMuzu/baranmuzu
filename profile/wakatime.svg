@@ -139,7 +139,7 @@
             data-testid="lang-progress"
             x="263.6085"
             y="0"
-            width="71.42399999999999"
+            width="71.2845"
             height="8"
             fill="#df7900"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="335.03249999999997"
+            x="334.893"
             y="0"
-            width="33.2475"
+            width="33.201"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="368.28"
+            x="368.094"
             y="0"
-            width="32.457"
+            width="32.364000000000004"
             height="8"
             fill="#178600"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="400.73699999999997"
+            x="400.45799999999997"
             y="0"
             width="14.136"
             height="8"
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="414.873"
+            x="414.594"
             y="0"
-            width="11.2995"
+            width="11.345999999999998"
             height="8"
             fill="#292929"
           />
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.1725"
+            x="425.94"
             y="0"
             width="8.509500000000001"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.682"
+            x="434.4495"
             y="0"
             width="8.044500000000001"
             height="8"
@@ -207,7 +207,17 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="442.72650000000004"
+            x="442.494"
+            y="0"
+            width="5.022"
+            height="8"
+            fill="#0060ac"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="447.516"
             y="0"
             width="4.9755"
             height="8"
@@ -217,19 +227,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="447.70200000000006"
+            x="452.49150000000003"
             y="0"
-            width="4.743"
-            height="8"
-            fill="#0060ac"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="452.44500000000005"
-            y="0"
-            width="4.0455000000000005"
+            width="3.9989999999999997"
             height="8"
             fill="#ff3e00"
           />
@@ -408,7 +408,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 284 hrs 37 mins
+        Lua - 285 hrs 8 mins
       </text>
     </g>
   
@@ -443,7 +443,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 12 hrs 13 mins
+        JSON - 12 hrs 17 mins
       </text>
     </g>
   
@@ -462,16 +462,16 @@
     </g>
   
     <g transform="translate(25, 125)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#0060ac" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Skript - 5 hrs 23 mins
+        XML - 5 hrs 27 mins
       </text>
     </g>
   
     <g transform="translate(230, 125)">
-      <circle cx="5" cy="6" r="5" fill="#0060ac" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        XML - 5 hrs 8 mins
+        Skript - 5 hrs 23 mins
       </text>
     </g>
   
