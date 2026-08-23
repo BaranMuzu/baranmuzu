@@ -3,30 +3,50 @@
 
 <p align="center">
   <a href="https://baranmuzu.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-baranmuzu.netlify.app-00c700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-baranmuzu.netlify.app-00c700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" height="35" />
   </a>
-  <a href="https://www.youtube.com/@BaranMuzu" target="_blank"> <img src="https://img.shields.io/badge/YouTube-BaranMuzu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@BaranMuzu" target="_blank"> <img src="https://img.shields.io/badge/YouTube-BaranMuzu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35" />
   </a>
-  <a href="https://discord.com/users/1084601562762051706" target="_blank"> <img src="https://img.shields.io/badge/Discord-BaranMuzu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/1084601562762051706" target="_blank"> <img src="https://img.shields.io/badge/Discord-BaranMuzu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 🙋‍♂️ About Me!!
 
 Welcome to my page! Looks like you want to learn more about me. 
 I'm a **content creator** on YouTube and other platforms. When I'm not making content, I'm usually diving into coding, game development, or just vibing online. I love creating fun projects and learning new things along the way!
 
-## Stuff I Do
+---
 
-**Languages & Tools I currently use & learning:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=haxe,lua,python,html,css,cs&theme=dark)](https://skillicons.dev)
+## 🛠️ Stuff I Do <3
 
-**What I want to learn next:**
-<br>
-[![Learning](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua" alt="Lua" height="45" />
+  <img src="https://img.shields.io/badge/Haxe-111111?style=for-the-badge&logo=haxe" alt="Haxe" height="45" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" alt="Python" height="45" />
+  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5" alt="HTML" height="45" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css" alt="CSS" height="45" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" alt="JavaScript" height="45" />
+  <br>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp" alt="C#" height="45" />
+  <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge&logo=godotengine" alt="GDScript" height="45" />
+  <img src="https://img.shields.io/badge/Luau-111111?style=for-the-badge&logo=lua&logoColor=00A2FF" alt="Luau" height="45" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte" alt="Svelte" height="35" />
+  <img src="https://img.shields.io/badge/Astro-111111?style=for-the-badge&logo=astro" alt="Astro" height="35" />
+</p>
+
+<h3 align="center">What I want to learn next</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk" alt="Java" height="35" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus" alt="C++" height="35" />
+</p>
 
 ---
 
