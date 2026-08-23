@@ -32,10 +32,60 @@ I'm a **content creator** on YouTube and other platforms. When I'm not making co
 
 ## 📊 GitHub & Coding Stats
 
-<p align="center">
-  <img src="profile/wakatime.svg" alt="Baran's WakaTime stats" width="48%" />
-  <img src="profile/stats.svg" alt="Baran's Github Stats" width="48%" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+        <td><b>Total Commits</b></td>
+        <td><b>Total PRs</b></td>
+        <td><b>Total Issues</b></td>
+        <td><b>Total Stars</b></td>
+    </tr>
+    <tr>
+      <!--START OF GITHUB TOTALCOMMITS-->
+        <td>193</td>
+      <!--END OF GITHUB TOTALCOMMITS-->
+      <!--START OF GITHUB PRS-->
+        <td>11</td>
+      <!--END OF GITHUB PRS-->
+      <!--START OF GITHUB ISSUES-->
+        <td>6</td>
+      <!--END OF GITHUB ISSUES-->
+      <!--START OF GITHUB REPOSSTARS-->
+        <td>12</td>
+      <!--END OF GITHUB REPOSSTARS-->
+    </tr>
+  </table>
+  <p>Provided by <a href="https://github.com">GitHub</a>, Displayed by Daveberry</p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <!--START OF WAKATIME LANGUAGES-->
+        <td><b>Lua</b></td>
+        <td><b>Haxe</b></td>
+        <td><b>GDScript3</b></td>
+        <td><b>C#</b></td>
+        <td><b>Luau</b></td>
+        <td><b>Skript</b></td>
+      <!--END OF WAKATIME LANGUAGES-->
+    </tr>
+    <tr>
+      <!--START OF WAKATIME TIME-->
+        <td>290 hrs 28 mins</td>
+        <td>86 hrs 8 mins</td>
+        <td>36 hrs 5 mins</td>
+        <td>35 hrs 14 mins</td>
+        <td>15 hrs 16 mins</td>
+        <td>9 hrs 45 mins</td>
+      <!--END OF WAKATIME TIME-->
+    </tr>
+  </table>
+  <p>
+      Provided by <a href="https://wakatime.com">Wakatime</a>, Displayed by Daveberry <br>
+      Most languages are not included, as they are not real languages.
+  </p>
+</div>
 
 ---
 
