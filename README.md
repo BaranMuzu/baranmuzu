@@ -62,7 +62,7 @@ I'm a **content creator** on YouTube and other platforms. When I'm not making co
     </tr>
     <tr>
       <!--START OF GITHUB TOTALCOMMITS-->
-        <td>200</td>
+        <td>202</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
         <td>11</td>
@@ -94,7 +94,7 @@ I'm a **content creator** on YouTube and other platforms. When I'm not making co
       <!--START OF WAKATIME TIME-->
         <td>290 hrs 28 mins</td>
         <td>86 hrs 8 mins</td>
-        <td>48 hrs 51 mins</td>
+        <td>49 hrs 59 mins</td>
         <td>35 hrs 14 mins</td>
         <td>15 hrs 16 mins</td>
         <td>9 hrs 45 mins</td>
