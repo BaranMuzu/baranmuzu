@@ -93,8 +93,8 @@ I'm a **content creator** on YouTube and other platforms. When I'm not making co
     <tr>
       <!--START OF WAKATIME TIME-->
         <td>291 hrs 13 mins</td>
-        <td>89 hrs 47 mins</td>
-        <td>49 hrs 59 mins</td>
+        <td>89 hrs 51 mins</td>
+        <td>50 hrs 29 mins</td>
         <td>35 hrs 14 mins</td>
         <td>15 hrs 16 mins</td>
         <td>9 hrs 45 mins</td>
