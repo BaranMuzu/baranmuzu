@@ -62,10 +62,10 @@ I'm a **content creator** on YouTube and other platforms. When I'm not making co
     </tr>
     <tr>
       <!--START OF GITHUB TOTALCOMMITS-->
-        <td>207</td>
+        <td>208</td>
       <!--END OF GITHUB TOTALCOMMITS-->
       <!--START OF GITHUB PRS-->
-        <td>12</td>
+        <td>13</td>
       <!--END OF GITHUB PRS-->
       <!--START OF GITHUB ISSUES-->
         <td>6</td>
